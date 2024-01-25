@@ -1,0 +1,31 @@
+# Node.js
+node_modules
+
+# npm
+npm-debug.log
+*.lock
+node_modules/
+npm-debug.log.*
+yarn-debug.log.*
+yarn-error.log.*
+
+# yarn
+yarn-error.log
+.pnp/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/build-state.yml
+.yarn/install-state.gz
+.yarn/releases/
+
+# Next.js
+/.next/
+/out/
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store

@@ -1,0 +1,24 @@
+{
+  "name": "wp-redirects-vercel-json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gianfaye/wp-redirects-vercel-json.git",
+  "author": "gianfaye <git@gianfaye.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.17",
+    "fs": "^0.0.1-security",
+    "next": "^14.1.0",
+    "path": "^0.12.7",
+    "postcss": "^8.4.33",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-json-view": "^1.21.3",
+    "tailwindcss": "^3.4.1"
+  }
+}
